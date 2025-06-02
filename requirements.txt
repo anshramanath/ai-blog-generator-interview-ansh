@@ -1,0 +1,5 @@
+flask
+cohere
+python-dotenv
+apscheduler
+requests
