@@ -1,4 +1,4 @@
-# 📝 AI-Powered Blog Post Generator
+# 🌀 AI-Powered Blog Post Generator
 
 This project is a Flask-based backend that generates SEO-optimized blog posts using Cohere's Command R+ model. Given a keyword, it performs lightweight SEO analysis and uses AI to draft blog content with real-looking affiliate links. The app also supports daily automated blog generation via a built-in scheduler.
 
