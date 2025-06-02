@@ -18,7 +18,7 @@ This project is a Flask-based backend that generates SEO-optimized blog posts us
 ## 📁 Project Structure
 
 ```
-ai-blog-generator/
+ai-blog-generator-interview-ansh/
 ├── app.py                  # Flask app + scheduled job
 ├── ai_generator.py         # LLM-based blog generation
 ├── seo_fetcher.py          # Mock SEO data
